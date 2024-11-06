@@ -1,11 +1,5 @@
 # 💫 About Me:
-Muhammed_Shahan = {<br>    "Career": "Data Scientist",<br>    "Skills": [ "Data visualization", "Python" , "Machine learning" , "Cloud computing", "PostgreSQL"],<br>    "Tools": [ "Tableau", "Seaborn", "Power BI", "Scikit-learn", "Pandas", "NumPy"]<br>}mohamed_ayman = {
-    "Career": "Backend Engineer in Web",
-    'Skills': {
-        'FrontEnd': ['HTML', 'Bootstrap'],
-        'BackEnd': ['Python', 'Django', 'SQL'],
-        'Tools': ['Git', 'Linux (Ubuntu based) OS']
-    }
+Muhammed_Shahan = {<br>    "Career": "Data Scientist",<br>    "Skills": [ "Data visualization", "Python" , "Machine learning" , "Cloud computing", "PostgreSQL"],<br>    "Tools": [ "Tableau", "Seaborn", "Power BI", "Scikit-learn", "Pandas", "NumPy"]<br>}
 }
 
 
